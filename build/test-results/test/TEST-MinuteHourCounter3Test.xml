@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MinuteHourCounter3Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-04-29T07:17:10" hostname="mbp" time="0.052">
+  <properties/>
+  <testcase name="test_add" classname="MinuteHourCounter3Test" time="0.05"/>
+  <testcase name="test_hourCount" classname="MinuteHourCounter3Test" time="0.001"/>
+  <testcase name="test_minuteCount" classname="MinuteHourCounter3Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
